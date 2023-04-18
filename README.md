@@ -1,5 +1,4 @@
-# Health-Standards  
-# 中国大陆地区医疗信息化系统标准与规范  
+# Health-Standards 中国大陆地区医疗信息化系统标准与规范  
 # 卫计委官网     
 http://www.nhc.gov.cn/wjw/index.shtml  
 ## 关于转发《医院信息平台应用功能指引》的通知（2016年）    
